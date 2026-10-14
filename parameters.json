@@ -1,0 +1,8 @@
+{
+  "path_build": "../build",
+  "path_data": "../inputdata",
+  "path_secure_data": "D:/OneDrive - University of Leeds/Data",
+  "end_year": 2050,
+  "converge_year": 2040,
+  "epc_year": 2025
+}
